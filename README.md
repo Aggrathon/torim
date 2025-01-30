@@ -2,7 +2,7 @@
 
 This is a prompt theme for [Zsh](https://www.zsh.org/) designed to be used with the [Zim framework](https://zimfw.sh).
 
-> TODO: add screenshot
+![Terminal screenshot](screenshot.avif)
 
 This theme is inspired by / has taken features from
 - https://github.com/zimfw/sorin
